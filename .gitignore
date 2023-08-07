@@ -1,2 +1,5 @@
 venv
 .idea
+__pycache__/ui.cpython-311.pyc
+__pycache__/data.cpython-311.pyc
+__pycache__/quiz_brain.cpython-311.pyc
